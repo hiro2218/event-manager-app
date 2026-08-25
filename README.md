@@ -16,7 +16,7 @@ This is an app I'm building for this Mobile Dev class
 - Publish an event draft
 - Delete a draft event
 - Cancel a published event
-- View a list of events (indicates if in draft or published)
+- ➡️ View a list of events (indicates if in draft or published)
 - Update a draft event
 - Update a published event (registered attendees get notified)
 
