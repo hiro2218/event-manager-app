@@ -34,5 +34,5 @@ __Engineering Tasks:__
   - Create dummy data (no API yet)
   - Create `eventApiService` (abstraction for fetching events)
 - Web API
-  - Create API endpoint (GET: /api/events)
+  - ✅ Create API endpoint (GET: /api/events)
   - ✅ Create dummy data (no database yet)
