@@ -28,7 +28,11 @@ __Story:__ View a list of events (indicates if in draft or published)
 
 __Engineering Tasks:__
 
-- ➡️ Design card for individual event
-- Display list of events (each event is a card)
-- Create dummy data (no API yet)
-- Create `eventApiService` (abstraction for fetching events)
+- Mobile App
+  - Design card for individual event
+  - Display list of events (each event is a card)
+  - Create dummy data (no API yet)
+  - Create `eventApiService` (abstraction for fetching events)
+- Web API
+  - Create API endpoint (GET: /api/events)
+  - ➡️ Create dummy data (no database yet)

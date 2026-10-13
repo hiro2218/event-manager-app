@@ -1,3 +1,5 @@
+using System;
+
 namespace EventManagerWebApi;
 
 public class WeatherForecast
